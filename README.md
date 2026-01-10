@@ -12,7 +12,7 @@ Lisa Ho, mt2ho, 21067660
 
 This project's purpose is to show that we can publish our code onto a live website from VS code.
 
-The website is a screen for the game "is this seat taken?" inspired fromt he gameplay in our class
+The website is a screen for the game "is this seat taken?" inspired from the gameplay in our class. It includes a purple background and the title of the game.
 
 ---
 
